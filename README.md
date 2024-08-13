@@ -7,4 +7,4 @@ Important: Keyloggers can be used for malicious purposes, such as spying on user
 
 Disclaimer: This program is for educational purposes only, and I do not condone or encourage the use of keyloggers for malicious purposes.
 
-To run the program, save it to a file (e.g., keylogger.py) and execute it using Python (e.g., python keylogger.py). The program will start logging keystrokes to a file named "keylog.txt" in the same directory. Press the 'esc' key to stop the program.
+To run the program ,execute it using Python (e.g., python keylogger.py). The program will start logging keystrokes to a file named "keylog.txt" in the same directory. Press the 'esc' key to stop the program.
